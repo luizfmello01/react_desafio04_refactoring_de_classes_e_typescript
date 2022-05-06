@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "id": 2,
+      "name": "Veggie223",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "price": "21.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Comida de teste3",
+      "price": "25.9",
+      "description": "Comida de teste para verificar funcionamento do modal2",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Teste3652",
+      "price": "27.9",
+      "description": "Testando a pagina home com TypeScript",
+      "available": true,
+      "id": 5
+    }
+  ]
+}
